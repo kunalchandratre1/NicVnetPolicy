@@ -6,4 +6,4 @@ However it only offers VMs to be checked against single VNET name. In reality, w
 So we need a policy that can check all Azure VMs against “multiple azure Virtual Networks”.
 This policy code creates a policy that allows to provision Azure VMs inside only allowed list of VNETs, precisely MULTIPLE VNETs.. 
 
-Refer to the link for more details - 
+Refer to the link for more details - https://www.sanganakauthority.com/2023/07/azure-virtual-machines-should-be.html
